@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,SAAE;EACA,WAAW,EAAE,qBAAS;EACtB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;AAElB,SAAE;EACA,SAAS,EAAE,GAAG",
+"sources": ["mobile.sass"],
+"names": [],
+"file": "mobile.css"
+}
